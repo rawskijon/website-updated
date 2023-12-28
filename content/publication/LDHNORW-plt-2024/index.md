@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: OSF link
   url: https://osf.io/preprints/psyarxiv/q6n58
 url_pdf: https://osf.io/q6n58/download/
 url_code: ''
