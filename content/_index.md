@@ -128,6 +128,16 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Lectures
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -161,20 +171,20 @@ sections:
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      # # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      # default_button_index: 0
+      # # Filter toolbar (optional).
+      # # Add or remove as many filters (`filter_button` instances) as you like.
+      # # To show all items, set `tag` to "*".
+      # # To filter by a specific tag, set `tag` to an existing tag name.
+      # # To remove the toolbar, delete the entire `filter_button` block.
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -195,12 +205,26 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        I try to make all of my work accessible and Green open-access, on this website and/or some other repository. You can check your own work via the <a href="https://dissem.in/">Dissemin Project</a>.
+        Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
           - publication
         featured_only: true
+        # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+        default_button_index: 0
+        # Filter toolbar (optional).
+        # Add or remove as many filters (`filter_button` instances) as you like.
+        # To show all items, set `tag` to "*".
+        # To filter by a specific tag, set `tag` to an existing tag name.
+        # To remove the toolbar, delete the entire `filter_button` block.
+        buttons:
+          - name: All
+            tag: '*'
+          - name: Phonology
+            tag: phonology
+          - name: Learnability
+            tag: learning algorithms
     design:
       columns: '1'
       view: showcase
@@ -218,16 +242,6 @@ sections:
   #   design:
   #     columns: '1'
   #     view: compact
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Lectures
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
