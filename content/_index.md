@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Jon Rawski'
-date: 2022-10-24
+title: ''
+date: 2023-12-28
 type: landing
 
 sections:
