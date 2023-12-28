@@ -131,13 +131,14 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Lectures
+      count: 3
       filters:
         folders:
           - event
         featured_only: true
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      view: list
   - block: collection
     id: posts
     content:
