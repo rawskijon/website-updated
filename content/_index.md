@@ -207,7 +207,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/). I try to make all of my work accessible and Green open-access, on this website and/or some other repository. You can check your own work via the <a href="https://dissem.in/">Dissemin Project</a>
+        I try to make all of my work accessible and Green open-access, on this website and/or some other repository. You can check your own work via the <a href="https://dissem.in/">Dissemin Project</a>
         {{% /callout %}}
       count: 5
       filters:
