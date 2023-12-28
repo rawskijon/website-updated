@@ -224,27 +224,27 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        I am currently taking emails at my MIT address, please 
+        
       # Contact (add or remove contact options as necessary)
       email: rawski@mit.edu
       #phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: MIT Stata Center
+        street: Stata Center, 32 Vassar Street
         city: Cambridge
         region: MA
-        postcode: '94305'
+        postcode: ''
         country: United States
         country_code: US
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -256,18 +256,18 @@ sections:
         latitude: '42.361542'
         longitude: '-71.09066'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        # - icon: twitter
+        #   icon_pack: fab
+        #   name: DM Me
+        #   link: 'https://twitter.com/Twitter'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
