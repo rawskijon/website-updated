@@ -4,7 +4,7 @@ title: TBD
 event: Computational Linguistics Seminar
 event_url: 
 
-location: CUNY Linguistics Department
+location: CUNY Computational Linguistics Lecture Series
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

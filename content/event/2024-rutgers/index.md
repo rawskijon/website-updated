@@ -4,7 +4,7 @@ title: TBD
 event: Linguistics Colloquium
 event_url: 
 
-location: Rutgers University
+location: Rutgers Linguistics Colloquium
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

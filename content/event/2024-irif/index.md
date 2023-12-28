@@ -4,7 +4,7 @@ title: TBD
 event: IRIF Automata Seminar
 event_url: https://www.irif.fr/en/seminaires/automates/index
 
-location: L'Institut de Recherche en Informatique Fondamentale (IRIF)
+location: Automata Seminar, Institut de Recherche en Informatique Fondamentale (IRIF)
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
