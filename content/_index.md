@@ -205,26 +205,12 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [filtering publications](./publication/). I try to make all of my work accessible and Green open-access, on this website and/or some other repository. You can check your own work via the <a href="https://dissem.in/">Dissemin Project</a>
         {{% /callout %}}
       filters:
         folders:
           - publication
         featured_only: true
-        # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-        default_button_index: 0
-        # Filter toolbar (optional).
-        # Add or remove as many filters (`filter_button` instances) as you like.
-        # To show all items, set `tag` to "*".
-        # To filter by a specific tag, set `tag` to an existing tag name.
-        # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Phonology
-          tag: phonology
-        - name: Learnability
-          tag: learning algorithms
     design:
       columns: '1'
       view: showcase
