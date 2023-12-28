@@ -235,26 +235,26 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I am currently taking emails at my MIT address, please 
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: rawski@mit.edu
+      #phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        street: MIT Stata Center
+        city: Cambridge
+        region: MA
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '42.361542'
+        longitude: '-71.09066'  
       contact_links:
         - icon: twitter
           icon_pack: fab
