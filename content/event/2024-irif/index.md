@@ -1,5 +1,5 @@
 ---
-title: TBD
+title: Hard attention transformers compute aperiodic transductions
 
 event: IRIF Automata Seminar
 event_url: https://www.irif.fr/en/seminaires/automates/index

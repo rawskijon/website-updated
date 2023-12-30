@@ -1,5 +1,5 @@
 ---
-title: TBD
+title: Transductive Linguistics Redux
 
 event: Computational Linguistics Seminar
 event_url: 

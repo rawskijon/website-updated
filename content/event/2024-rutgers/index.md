@@ -1,5 +1,5 @@
 ---
-title: TBD
+title: Mathematical Linguistics & Cognitive Complexity
 
 event: Linguistics Colloquium
 event_url: 
