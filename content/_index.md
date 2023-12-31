@@ -131,7 +131,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Lectures
-      count: 3
+      count: 4
       filters:
         folders:
           - event
