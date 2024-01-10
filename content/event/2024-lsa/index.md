@@ -2,7 +2,7 @@
 title: Formal Language Theory in Morphology and Phonology
 
 event: LSA Annual Meeting, NY
-event_url: https://virtual.oxfordabstracts.com/#/event/public/4438/program?session=87889&s=0
+event_url: https://www.jeffreyheinz.net/events/lsa2024/
 
 location: Linguistics Society of America Annual Meeting
 # address:
