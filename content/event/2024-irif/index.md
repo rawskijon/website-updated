@@ -1,5 +1,5 @@
 ---
-title: Hard attention transformers compute aperiodic transductions
+title: Learning (Sub)regular Transformations
 
 event: IRIF Automata Seminar
 event_url: https://www.irif.fr/en/seminaires/automates/index
