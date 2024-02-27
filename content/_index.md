@@ -130,7 +130,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Lectures
+      title: Upcoming Lectures and Events 
       count: 5
       filters:
         folders:
