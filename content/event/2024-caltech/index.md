@@ -1,5 +1,5 @@
 ---
-title: Workshop on Mathematical Linguistics
+title: Workshop on Algebraic Models of Generative Linguistics
 
 event: Merkin Center for Pure and Applied Mathematics, Caltech
 event_url: ""
