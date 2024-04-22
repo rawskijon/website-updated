@@ -2,7 +2,7 @@
 title: Transductive Linguistics Redux
 
 event: Computational Linguistics Seminar
-event_url: 
+event_url: https://www.gc.cuny.edu/events/transductive-linguistics-redux
 
 location: CUNY Computational Linguistics Lecture Series
 # address:
