@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I teach courses on general and computational linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>. In 2023/2024, I am on leave to teach and work at <a href="https://linguistics.mit.edu/">MIT Linguistics</a>. During summers and winters I am in Paris, transiently at the <a href="http://www.institutnicod.org">Institut Jean Nicod</a>. I generally study the mathematics of human language and learning. My work places mathematical boundary conditions on the grammars underlying human language and how they can be learned. These properties reflect humans' unique neuronal structure and computational power, contributing foundational principles for the cognitive and computer sciences.
+I teach courses on general and computational linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>. In 2023/2024, I am on leave to teach and work at <a href="https://linguistics.mit.edu/">MIT Linguistics</a>. I generally study the mathematics of human language and learning. My work places mathematical boundary conditions on the grammars underlying human language and how they can be learned. These properties reflect humans' unique neuronal structure and computational power, contributing foundational principles for the cognitive and computer sciences.
 {style="text-align: justify;"}
