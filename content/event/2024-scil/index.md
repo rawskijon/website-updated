@@ -1,5 +1,5 @@
 ---
-title: Two Presentations at SCiL
+title: Two Presentations at SCiL 2024
 
 event: Society for Computation in Linguistics
 event_url: https://sites.uci.edu/scil2024/
