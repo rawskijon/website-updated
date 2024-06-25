@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: PDF
-  url: "2024-SR-scil.pdf"
+- name: Open-access publication
+  url: "https://openpublishing.library.umass.edu/scil/article/id/2124/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
