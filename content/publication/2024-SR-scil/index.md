@@ -1,5 +1,5 @@
 ---
-title: "Tensor Product Representations of Regular Transformations"
+title: "Tensor Product Representations of Regular Transductions"
 authors:
 - Zhouyi Sun
 - admin
