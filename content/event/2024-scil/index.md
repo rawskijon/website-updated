@@ -42,7 +42,8 @@ links:
   #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_poster: 'SCiL_poster.pdf' 
+url_slides: '2024-scil-LR.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
