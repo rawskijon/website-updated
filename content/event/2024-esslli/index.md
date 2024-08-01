@@ -35,6 +35,8 @@ image:
   focal_point: Right
 
 links:
+- name: Course Materials
+  url: https://sleynas.com/esslli-2024-summer-school-course
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
