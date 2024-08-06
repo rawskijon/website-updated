@@ -33,7 +33,7 @@ featured: true
 
 links:
 - name: Draft Preprint
-  url: "BHR_2020_Abstractness.pdf"
+  url: "BHR_2022_Abstractness.pdf"
 - name: Official Pub
   url: "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198845003.001.0001/oxfordhb-9780198845003-e-14"
 url_pdf: ''
