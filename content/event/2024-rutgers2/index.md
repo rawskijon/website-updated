@@ -1,10 +1,10 @@
 ---
-title: Mathematical Structures in Linguistics
+title: Aperiodic Transductions and Transformers
 
-event: Mathematics and Statistics Colloquium
+event: Subregular Phonology Workshop, Rutgers University
 event_url: ''
 
-location: Mathematics and Statistics Colloquium, SJSU
+location: Subregular Phonology Workshop, Rutgers University
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -17,8 +17,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-10-09T14:10:00Z'
-date_end: '2024-10-09T12:00:00Z'
+date: '2024-09-27T14:10:00Z'
+date_end: '2024-09-29T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
