@@ -1,7 +1,6 @@
 ---
 title: "The Problem-Ladenness of Theory"
 authors:
-- admin
 - Daniel Levenstein
 - Aniello De Santo
 - Saskia Heijnen
@@ -10,7 +9,7 @@ authors:
 - admin
 - Cory wright
 
-date: "2023-12-28T00:00:00Z"
+date: "2024-10-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,19 +24,21 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: The cognitive sciences are facing questions of how to select from competing theories, or develop those that best suit their current needs. However, traditional accounts of theoretical virtues, focused on their epistemic justification, have not yet proven informative to theory development in these fields. We advance a problem-centric, or pragmatic, account by which theoretical virtues are heuristics we use to estimate the degree to which a theory increases the problem-solving efficacy of a field's body of knowledge. From this perspective, what are traditionally considered epistemic virtues can be couched in terms of their coverage of problems in a field's domain, or problem-space, and additional virtues come to light that reflect a theory’s ability to facilitate its use by problem-having agents and its context in a societally-embedded scientific system. This approach helps us understand why the different needs of different fields result in different kinds of theories, and allows us to formulate the challenges facing cognitive science in terms that we hope will facilitate their resolution through further theoretical development. 
+abstract: he cognitive sciences are facing questions of how to select from competing theories or develop those that suit their current needs. However, traditional accounts of theoretical virtues have not yet proven informative to theory development in these fields. We advance a pragmatic account by which theoretical virtues are heuristics we use to estimate a theory’s contribution to a field’s body of knowledge and the degree to which it increases that knowledge’s ability to solve problems in the field’s domain or problem space. From this perspective, properties that are traditionally considered epistemic virtues, such as a theory’s fit to data or internal coherence, can be couched in terms of problem space coverage, and additional virtues come to light that reflect a theory’s alignment with problem-having agents and the context in a societally embedded scientific system. This approach helps us understand why the needs of different fields result in different kinds of theories and allows us to formulate the challenges facing cognitive science in terms that we hope will facilitate their resolution through further theoretical development.
 
 # Summary. An optional shortened abstract.
-summary: We give a pragmatic problem-centered account of theories' epistemic virtues like coherence, depth, and parsimony.
+summary: We give a pragmatic problem-centered account of theories' epistemic virtues, like coherence, depth, and parsimony.
 
 tags:
 - Source Themes
 featured: false
 
 links:
+- name: Official Pub
+  url: https://link.springer.com/article/10.1007/s42113-024-00219-3
 - name: OSF link
   url: https://osf.io/preprints/psyarxiv/q6n58
-url_pdf: https://osf.io/q6n58/download/
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
