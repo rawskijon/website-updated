@@ -2,7 +2,7 @@
 title: Regular Functions in Linguistics and Language Models
 
 event: Information, Geometry and Physics Seminar, Caltech
-event_url: ""
+event_url: "https://www.caltech.edu/campus-life-events/calendar/information-geometry-and-physics-seminar-25"
 
 location: Information, Geometry and Physics Seminar, CalTech
 # address:
