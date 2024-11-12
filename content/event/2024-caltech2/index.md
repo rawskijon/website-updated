@@ -1,10 +1,10 @@
 ---
-title: Aperiodic Transductions and Transformers
+title: Regular Functions in Linguistics and Language Models
 
-event: Subregular Phonology Workshop, Rutgers University
-event_url: ''
+event: Information, Geometry and Physics Seminar, Caltech
+event_url: ""
 
-location: Subregular Phonology Workshop, Rutgers University
+location: Information, Geometry and Physics Seminar, CalTech
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -17,8 +17,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-27T14:10:00Z'
-date_end: '2024-09-29T12:00:00Z'
+date: '2024-11-13T16:00:00Z'
+date_end: '2024-11-13T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

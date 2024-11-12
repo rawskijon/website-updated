@@ -43,6 +43,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+url_poster: 'amp_poster.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
