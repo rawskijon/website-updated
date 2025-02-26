@@ -1,12 +1,12 @@
 ---
-title: "The Computational Power of Harmony"
+title: "The Computational Power of Harmonic Forms"
 authors:
 - Alena Aksenova
 - admin
 - Thomas Graf
 - Jeffrey Heinz
 
-date: "2020-07-01T00:00:00Z"
+date: "2024-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,11 +29,10 @@ summary: We overview vowel harmony computationally, describing necessary and suf
 
 tags:
 - computational phonology
-- learning algorithms
 featured: true
 
 links:
-- name: Review Draft
+- name: Preprint Draft
   url: "ARGH-2020-Harmony.pdf"
 url_pdf: ''
 url_code: ''
